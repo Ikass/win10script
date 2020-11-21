@@ -36,7 +36,7 @@ $tweaks = @(
 	"InstallIrfanview",
 	"InstallVLC",
 	"InstallAdobe",
-	"InstallBrave",
+	# "InstallBrave",
 	"ChangeDefaultApps",
 
 	### Windows Apps
